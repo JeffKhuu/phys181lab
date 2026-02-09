@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="120.90851mm"
+   height="88.248398mm"
+   viewBox="0 0 120.90851 88.248398"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ArrowWide"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path1" />
+    </marker>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-7.5665866,-4.8150565)">
+    <path
+       d="M 83.17525,56.233624 V 64.33516 H 96.208573 V 92.463337 H 128.1751 V 64.33516 56.233624 Z"
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.600001"
+       id="path15" />
+    <path
+       d="m 67.682659,11.262726 v 5.051371 h 17.581354 v 39.919527 h 5.98672 V 16.314097 11.712828 11.262726 Z"
+       style="fill:none;stroke-width:0.600001;paint-order:fill markers stroke"
+       id="path12" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;line-height:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.93241;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       x="353"
+       y="167"
+       id="text12"
+       transform="matrix(0.15257827,0,0,0.15257827,52.234667,36.263627)"><tspan
+         id="tspan12"
+         x="353"
+         y="167"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';stroke-width:3.93241">Tabletop</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect283"
+       width="2.6634529"
+       height="46.455551"
+       x="85.264015"
+       y="11.326353"
+       ry="1.4378612" />
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.600001;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect284"
+       width="13.081653"
+       height="2.99036"
+       x="74.75502"
+       y="12.974621"
+       ry="1.3317263" />
+    <circle
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.600001;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path285"
+       cx="76.473335"
+       cy="14.571423"
+       r="0.85632366" />
+    <circle
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.600001;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="circle285"
+       cx="86.120338"
+       cy="14.526434"
+       r="0.85632366" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;line-height:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.93241;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       x="353"
+       y="167"
+       id="text285"
+       transform="matrix(0.15257827,0,0,0.15257827,35.99673,11.938533)"><tspan
+         id="tspan285"
+         x="353"
+         y="167"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';stroke-width:3.93241">Fixed Rod</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;line-height:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.93241;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       x="353"
+       y="167"
+       id="text286"
+       transform="matrix(0.15257827,0,0,0.15257827,36.076198,-10.021239)"><tspan
+         id="tspan286"
+         x="353"
+         y="167"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';stroke-width:3.93241">Adjustable Clamp</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#999999;fill-opacity:1;stroke:none;stroke-width:3.64198;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       x="64.346718"
+       y="268.34702"
+       id="text288"
+       transform="matrix(0.16474566,0,0,0.16474566,68.854274,7.5472576)"><tspan
+         id="tspan288"
+         x="64.346718"
+         y="268.34702"
+         style="fill:#999999;stroke-width:3.64198">M</tspan></text>
+    <g
+       id="g5"
+       transform="translate(15.502096,11.926642)">
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.600001;stroke-dasharray:none;stroke-opacity:1"
+         id="path9-8"
+         cx="61.200409"
+         cy="34.358925"
+         rx="0.80001718"
+         ry="0.78281981" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="path17"
+         d="m 36.612859,-61.500408 a 1.1678176,1.2965423 0 0 1 -0.583909,1.122838 1.1678176,1.2965423 0 0 1 -1.167817,0 1.1678176,1.2965423 0 0 1 -0.583909,-1.122838"
+         transform="rotate(90)" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 61.200407,36.292722 v 3.301731"
+         id="path18" />
+      <rect
+         style="fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect411"
+         width="3.4230468"
+         height="3.4251001"
+         x="59.488884"
+         y="36.581165"
+         ry="1.412678" />
+      <rect
+         style="fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect28"
+         width="3.4230468"
+         height="3.4251001"
+         x="59.488884"
+         y="36.581165"
+         ry="1.412678" />
+    </g>
+    <rect
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:0.600001;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;paint-order:normal"
+       id="rect41"
+       width="0.99915892"
+       height="8.9299831"
+       x="78.783073"
+       y="12.735344"
+       ry="0.49957946" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;line-height:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.93241;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       x="353"
+       y="167"
+       id="text416"
+       transform="matrix(0.15257827,0,0,0.15257827,-9.7929774,-18.459491)"><tspan
+         id="tspan416"
+         x="353"
+         y="167"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';stroke-width:3.93241">Initial Lab Setup (Sideview)</tspan></text>
+    <g
+       id="g4"
+       transform="translate(4.9283982,-0.14031849)">
+      <g
+         id="g3">
+        <path
+           d="m 2.9381884,56.673942 v 8.333342 h 3.953247 V 92.903769 H 37.393966 V 65.007284 h 3.953247 V 56.673942 H 37.393966 6.8914354 Z"
+           style="fill:#e6e6e6;stroke:#000000;stroke-width:0.599999"
+           id="path3" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;line-height:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.93241;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+         x="353"
+         y="167"
+         id="text1"
+         transform="matrix(0.15257827,0,0,0.15257827,-37.929499,36.861473)"><tspan
+           id="tspan1"
+           x="353"
+           y="167"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';stroke-width:3.93241">Tabletop</tspan></text>
+    </g>
+    <path
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;paint-order:normal"
+       d="M 76.473337,13.715099 V 46.250213"
+       id="path5" />
+    <path
+       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:0.600001;stroke-linecap:butt;stroke-dasharray:1.8, 0.600001;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#ArrowWide);paint-order:fill markers stroke"
+       d="M 80.79521,29.01788 V 17.4746"
+       id="path413" />
+    <path
+       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#999999;stroke-width:0.600001;stroke-linecap:butt;stroke-dasharray:1.8, 0.600001;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#ArrowWide);paint-order:fill markers stroke"
+       d="M 80.79521,46.011302 V 34.468022"
+       id="path7" />
+    <path
+       style="fill:#808080;stroke:#999999;stroke-width:0.600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;paint-order:normal"
+       d="m 78.783074,17.200335 h 4.02427"
+       id="path8" />
+    <path
+       style="fill:#808080;stroke:#999999;stroke-width:0.600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;paint-order:normal"
+       d="m 78.783075,46.285567 h 4.02427"
+       id="path9" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;line-height:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#999999;fill-opacity:1;stroke:none;stroke-width:3.64198;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       x="64.346718"
+       y="268.34702"
+       id="text9"
+       transform="matrix(0.16474566,0,0,0.16474566,69.18844,-11.182265)"><tspan
+         id="tspan9"
+         x="64.346718"
+         y="268.34702"
+         style="fill:#999999;stroke:none;stroke-width:3.64198">L</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;line-height:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.78451;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       x="353"
+       y="167"
+       id="text10"
+       transform="matrix(0.15854101,0,0,0.15854101,9.4315637,2.5529344)"><tspan
+         id="tspan10"
+         x="353"
+         y="167"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';stroke-width:3.78451">String</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;line-height:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.78451;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       x="353"
+       y="167"
+       id="text11"
+       transform="matrix(0.15854101,0,0,0.15854101,-2.3204137,22.668441)"><tspan
+         id="tspan11"
+         x="353"
+         y="167"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';stroke-width:3.78451">Hanging Mass</tspan></text>
+    <rect
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:0.600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;paint-order:normal"
+       id="rect11"
+       width="2.3730025"
+       height="7.618587"
+       x="37.644775"
+       y="48.315037"
+       ry="1.1865013" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;line-height:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.78451;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       x="353"
+       y="167"
+       id="text13"
+       transform="matrix(0.15854101,0,0,0.15854101,-38.355224,24.076359)"><tspan
+         id="tspan13"
+         x="353"
+         y="167"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';stroke-width:3.78451">Smartphone</tspan></text>
+    <path
+       style="fill:#b3b3b3;stroke:#999999;stroke-width:0.600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.8, 0.600001;stroke-dashoffset:0;paint-order:normal"
+       d="m 38.831276,42.822579 v 20.93042"
+       id="path14" />
+    <path
+       style="fill:#b3b3b3;stroke:#999999;stroke-width:0.600002;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.8, 0.600002;stroke-dashoffset:0;paint-order:normal"
+       d="M 76.702504,52.232912 V 62.398121"
+       id="path19" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;line-height:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#999999;fill-opacity:1;stroke:none;stroke-width:3.78451;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       x="353"
+       y="167"
+       id="text20"
+       transform="matrix(0.15854101,0,0,0.15854101,8.7301413,42.186115)"><tspan
+         id="tspan20"
+         x="353"
+         y="167"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';fill:#999999;stroke-width:3.78451">Plane of Motion</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;line-height:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.93241;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       x="353"
+       y="167"
+       id="text41"
+       transform="matrix(0.15257827,0,0,0.15257827,5.2387777,-10.341605)"><tspan
+         id="tspan41"
+         x="353"
+         y="167"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Italic';stroke-width:3.93241">Protractor</tspan></text>
+  </g>
+</svg>
